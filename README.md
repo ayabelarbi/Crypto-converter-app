@@ -1,4 +1,4 @@
-# Getting Started with my crypto converter 
+# Crypto converter 
 
 Simple react cryptocurrencie converter application. 
 
